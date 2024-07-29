@@ -22,6 +22,7 @@ def get_lineage():
 
     return jsonify({'lineage': lineage})
 
+
 if __name__ == '__main__':
     app.run()
     
