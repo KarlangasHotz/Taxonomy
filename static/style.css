@@ -1,0 +1,32 @@
+#domain {
+    position: sticky;
+    font-size: 0.625em; /* Smallest */
+}
+
+#kingdom {
+    font-size: 0.75em; 
+}
+
+#phylum {
+    font-size: 0.875em; 
+}
+
+#class {
+    font-size: 1em; 
+}
+
+#order {
+    font-size: 1.25em; 
+}
+
+#family {
+    font-size: 1.5em; 
+}
+
+#genus {
+    font-size: 1.75em; 
+}
+
+#species {
+    font-size: 2em; /* Largest */
+}
